@@ -1,0 +1,1 @@
+start "SRCDS" /B srcds.exe -game garrysmod -conlog -port 27015 -console -conclearlog -condebug -tvdisable -maxplayers 30 +gamemode darkrp +r_hunkalloclightmaps 0 +map rp_downtown_tits_v2 -tickrate 128 +fps_max 128 +host_workshop_collection "3494130666" +sv_lan 1
